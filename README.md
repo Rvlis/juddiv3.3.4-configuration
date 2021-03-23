@@ -11,7 +11,7 @@
    
    ![tomcat路径](/res/img/tomcat_path.png)
    
-   - 访问 __localhost:8080__,访问到juddi启动页面
+   - 访问 __localhost:8080__，打开juddi启动页面
    
    ![juddi启动页面](/res/img/juddi启动页面.png)
    
@@ -51,6 +51,7 @@
 - __查询__
 
   ![browse-location](./res/img/browse-location.png)
-  
+  ![browse-result](./res/img/browse-result.png)
+
 ### 2. 通过接口
 [Examples](examples/)
