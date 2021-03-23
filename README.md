@@ -15,14 +15,4 @@
 ### 1. 通过juddi用户界面
 
 ### 2. 通过接口
-
-
-
-
-
-
-   ~~拷贝 your/path/juddi-distro-3.3.4/juddi-tomcat-3.3.4~~
-   ~~打开环境变量页面，添加系统变量名 ___CATALINA_HOME___，变量值为拷贝的路径~~
-  ~~path选项中添加 ___CATALIAN_HOME\bin___~~
-  ~~通过命令 ___startup___ 启动tomcat~~
-  ~~浏览器地址栏访问 __localhost:8080__~~
+[examples](examples/)
