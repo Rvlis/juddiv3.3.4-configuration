@@ -8,7 +8,7 @@
 2.  使用内置tomcat
    - ___cd___ __your/path/juddi-distro-3.3.4/juddi-tomcat-3.3.4/bin__
    - __./catalina.bat run__
-   - 
+   
    ![tomcat路径](/res/img/tomcat_path.png)
    
    - 访问 __localhost:8080__,访问到juddi启动页面
@@ -29,7 +29,7 @@
   ![tModel-partition-location](./res/img/key-generator-location.png)
   TModel密钥生成器是tModel的一种特殊类型，借助它可以使用所需的任意tModel前缀定义新的tModel。例如，如果您希望将tModel定义为"uddi：www.mycompany.com:ServiceAuthenticationMethod"，则首先必须创建一个值为"uddi：www.mycompany.com：keyGenerator"的tModel密钥生成器。这是UDDI规范的一部分，同时充当管理机制。
 - __创建一个bytedance的key generator__
-- 
+
   ![bytedance](res/img/bytedance-key-generator.png)
   
 - __create business， 使用创建的bytedance的key generator作为前缀__
