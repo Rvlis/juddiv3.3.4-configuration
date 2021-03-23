@@ -6,6 +6,7 @@
 3. `mvn -q -Pdemo test`
 
 4. output:
+   
    ![publish-output](../../res/img/publish-output.png)
 
 

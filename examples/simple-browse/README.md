@@ -5,4 +5,5 @@
 3. `mvn -q -Pdemo test`
 
 4. output:
+   
    ![browse-output](../../res/img/browse-output.png)

@@ -7,5 +7,5 @@ This example creates a new UDDI partition.
 3. `mvn -q -Pdemo test`
 
 4. output:
-
-![create-partition-output](../../res/img/create-partition-output.png)
+   
+   ![create-partition-output](../../res/img/create-partition-output.png)
