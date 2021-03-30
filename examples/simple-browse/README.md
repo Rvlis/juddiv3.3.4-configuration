@@ -6,4 +6,7 @@
 
 4. output:
    
-   ![browse-output](../../res/img/browse-output.png)
+   <!-- ![browse-output](../../res/img/browse-output.png) -->
+   <div align="center">
+      <img src="../../res/img/browse-output.png" width = "80%" alt="browse-output" align=center />
+   </div>

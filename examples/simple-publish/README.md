@@ -7,7 +7,11 @@
 
 4. output:
    
-   ![publish-output](../../res/img/publish-output.png)
+   <!-- ![publish-output](../../res/img/publish-output.png) -->
+   <div align="center">
+      <img src="../../res/img/publish-output.png" width = "80%" alt="publish-output" align=center />
+   </div>
+   
 
 
 
