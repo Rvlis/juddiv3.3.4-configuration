@@ -31,7 +31,7 @@
    <div align="center">
       <img src="./res/img/UDDI-data-model.png" width = "80%" alt="uddi-data-model" align=center />
    </div>
-   
+
 ### 1. 通过juddi用户界面
 - __点击jUDDI User Interface，进入用户界面__
 
@@ -44,7 +44,7 @@
       <img src="./res/img/juddi-home-page.png" width = "80%" alt="home-page" align=center />
    </div>
   
-- __点击右上角登录__
+- __点击右上角登录__ ___默认用户名、密码:（uddi,uddi）___
 - __create tModel Partition(Key Generator)__
   
   <!-- ![tModel-partition-location](./res/img/key-generator-location.png) -->
