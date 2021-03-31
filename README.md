@@ -51,7 +51,7 @@
   <div align="center">
       <img src="./res/img/key-generator-location.png" width = "80%" alt="tModel-partition-location" align=center />
    </div>
-  TModel密钥生成器是tModel的一种特殊类型，借助它可以使用所需的任意tModel前缀定义新的tModel。例如，如果您希望将tModel定义为 `uddi:www.mycompany.com:ServiceAuthenticationMethod`, 则首先必须创建一个值为 `uddi:www.mycompany.com:keyGenerator` 的tModel密钥生成器。这是UDDI规范的一部分，同时充当管理机制。
+  TModel密钥生成器是tModel的一种特殊类型，借助它可以使用所需的任意tModel前缀定义新的tModel。例如，如果您希望将tModel定义为 `uddi:www.bytedance.com:sale-unit`, 则首先必须创建一个值为 `uddi:www.bytedance.com:keyGenerator` 的tModel密钥生成器。这是UDDI规范的一部分，同时充当管理机制。
 - __创建一个bytedance的key generator__
 
   <!-- ![bytedance](res/img/bytedance-key-generator.png) -->
