@@ -9,7 +9,7 @@
    </div>
    
    
-2.  使用内置tomcat
+2.  使用内置tomcat  __juddi-tomcat-3.3.4__
    - ___cd___ __your/path/juddi-distro-3.3.4/juddi-tomcat-3.3.4/bin__
    - __./catalina.bat run__
    
@@ -27,11 +27,15 @@
    
 
 ## 三、实验：服务的注册和查询
+### UDDI 数据模型
+   <div align="center">
+      <img src="./res/img/UDDI-data-model.png" width = "80%" alt="uddi-data-model" align=center />
+   </div>
 ### 1. 通过juddi用户界面
 - __点击jUDDI User Interface，进入用户界面__
 
   <!-- ![welcome-page](./res/img/welcome-to-juddi.jpg)  -->
-  <div align="center">
+   <div align="center">
       <img src="./res/img/welcome-to-juddi.jpg" width = "80%" alt="welcome-page" align=center />
    </div>
   <!-- ![home-page](./res/img/juddi-home-page.png) -->
