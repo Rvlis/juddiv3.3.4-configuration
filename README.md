@@ -31,6 +31,7 @@
    <div align="center">
       <img src="./res/img/UDDI-data-model.png" width = "80%" alt="uddi-data-model" align=center />
    </div>
+   
 ### 1. 通过juddi用户界面
 - __点击jUDDI User Interface，进入用户界面__
 
