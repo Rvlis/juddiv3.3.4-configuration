@@ -36,11 +36,11 @@
 - __点击jUDDI User Interface，进入用户界面__
 
   <!-- ![welcome-page](./res/img/welcome-to-juddi.jpg)  -->
-   1. <div align="left">
+   <div align="left">
       <img src="./res/img/welcome-to-juddi.jpg" width = "80%" alt="welcome-page" align=center />
    </div>
   <!-- ![home-page](./res/img/juddi-home-page.png) -->
-  2. <div align="left">
+  <div align="left">
       <img src="./res/img/juddi-home-page.png" width = "80%" alt="home-page" align=center />
    </div>
   
