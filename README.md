@@ -2,14 +2,14 @@
 ## 一、环境
 - __jdk=1.8(1.6+), maven=3.0.4, juddi=3.3.4__
 ## 二、部署
-1.  进入<http://archive.apache.org/dist/juddi/juddi/3.3.4/>下载 ___juddi-distro-3.3.4.zip（or tar.gz）___，解压到本地 
+1.  在<http://archive.apache.org/dist/juddi/juddi/3.3.4/>中下载 ___juddi-distro-3.3.4.zip（or tar.gz）___，解压到本地 
    <!-- ![juddi解压内容](/res/img/juddi解压内容.png) -->
    <div align="left">
       <img src="./res/img/juddi解压内容.png" width = "80%" alt="juddi解压" align=center />
    </div>
    
    
-2.  使用内置tomcat  __juddi-tomcat-3.3.4__
+2.  解压后，使用内置的tomcat  __juddi-tomcat-3.3.4__
    - ___cd___ __your/path/juddi-distro-3.3.4/juddi-tomcat-3.3.4/bin__
    - __./catalina.bat run__
    
@@ -36,11 +36,11 @@
 - __点击jUDDI User Interface，进入用户界面__
 
   <!-- ![welcome-page](./res/img/welcome-to-juddi.jpg)  -->
-   <div align="left">
+   1. <div align="left">
       <img src="./res/img/welcome-to-juddi.jpg" width = "80%" alt="welcome-page" align=center />
    </div>
   <!-- ![home-page](./res/img/juddi-home-page.png) -->
-  <div align="left">
+  2. <div align="left">
       <img src="./res/img/juddi-home-page.png" width = "80%" alt="home-page" align=center />
    </div>
   
@@ -51,7 +51,7 @@
   <div align="left">
       <img src="./res/img/key-generator-location.png" width = "80%" alt="tModel-partition-location" align=center />
    </div>
-  TModel密钥生成器是tModel的一种特殊类型，借助它可以使用所需的任意tModel前缀定义新的tModel。例如，如果您希望将tModel定义为 `uddi:www.bytedance.com:sale-unit`, 则首先必须创建一个值为 `uddi:www.bytedance.com:keyGenerator` 的tModel密钥生成器。这是UDDI规范的一部分，同时充当管理机制。
+  tModel密钥生成器是tModel的一种特殊类型，借助它可以使用所需的任意tModel前缀定义新的tModel。例如，如果您希望将tModel定义为 `uddi:www.bytedance.com:sale-unit`, 则首先必须创建一个值为 `uddi:www.bytedance.com:keyGenerator` 的tModel密钥生成器。这是UDDI规范的一部分，同时充当管理机制。
 - __创建一个bytedance的key generator__
 
   <!-- ![bytedance](res/img/bytedance-key-generator.png) -->
