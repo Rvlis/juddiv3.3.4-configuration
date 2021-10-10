@@ -2,7 +2,7 @@ This example creates a new UDDI partition.
 
 1. Start the jUDDI-server (juddi-tomcat or juddi-bundle)
 
-2. Check the settings of the META-INF/uddi.xml, to make sure the serverName and serverPort are set correctly.
+2. Check the settings of the __META-INF/uddi.xml__, to make sure the __serverName__ and __serverPort__ are set correctly.
 
 3. `mvn -q -Pdemo test`
 
